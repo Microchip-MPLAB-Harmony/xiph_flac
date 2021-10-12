@@ -34,11 +34,11 @@
 #define FLAC__PRIVATE__LPC_H
 
 
-#include "flac_master/include/flac_config.h"
+#include "../../../../include/flac_config.h"
 
 #include "./cpu.h"
 #include "./float.h"
-#include "flac_master/include/FLAC/format.h"
+#include "../../../../include/FLAC/format.h"
 
 #ifndef FLAC__INTEGER_ONLY_LIBRARY
 

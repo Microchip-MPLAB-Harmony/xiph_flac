@@ -35,7 +35,7 @@
 
 #include <stdio.h> /* for FILE */
 
-#include "flac_master/include/FLAC/ordinals.h"
+#include "../../../../include/FLAC/ordinals.h"
 #include "cpu.h"
 
 /*
